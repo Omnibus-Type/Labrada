@@ -1,0 +1,57 @@
+FONTLOG for the Albura fonts
+
+This file provides detailed information on the Albura Font Software.
+This information should be distributed along with the Albura fonts
+and any derivative works.
+
+Basic Font Information
+
+Albura is a typeface family designed by Mercedes Jáuregui that expresses the communicative richness of the conversations and discourses of the indigenous cultures of oral tradition, at the same time that it dialogues with the classic forms to function in immersive reading texts. This project began in the Master of Typeface Design, MT-UBA, at the Universidad of Buenos Aires, Argentina. 
+
+To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
+
+**ChangeLog**
+
+**06 Dec 2022 (Mercedes Jáuregui) Albura Family v.1.000**
+- Initial release under SIL Open Font License
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), email (E), web-address (if you have one) (W) and description (D). This list is in alphabetical order.
+
+**N:** **Mercedes Jáuregui**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Designer  
+
+**N:** **Eduardo Rodríguez Tunni**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Typeface development
+
+**N:** **Oscar Guerrero**  
+**E:** omnibus.type@gmail.com
+**W:** http://www.omnibus-type.com
+**D:** Typeface development
+
+**N:** **Aldo De Losa**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Assistant Designer
+
+**N:** **Pablo Cosgaya**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Assistant Designer
+
+**N:** **Emma Marichal**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Assistant Designer 
+
+**N:** **Rosalie Wagner**  
+**E:** omnibus.type@gmail.com  
+**W:** http://www.omnibus-type.com  
+**D:** Assistant Designer 
+
+
