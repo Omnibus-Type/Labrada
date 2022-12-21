@@ -12,9 +12,11 @@ To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
 
 #### Albura Family contains:
 * Thin /  Thin Italic
+* Extra Light / Extra Light Italic
 * Light / Light Italic
 * Regular / Italic
 * Medium / Medium Italic
+* Semi Bold / Semi Bold Italic
 * Bold / Bold Italic
 * Extrabold / Extrabold Italic
 * Black / Black Italic
@@ -60,8 +62,8 @@ If you make modifications be sure to add your name (N), email (E), web-address (
 **D:** Typeface development
 
 **N:** **Oscar Guerrero**  
-**E:** omnibus.type@gmail.com
-**W:** http://www.omnibus-type.com
+**E:** omnibus.type@gmail.com 
+**W:** http://www.omnibus-type.com 
 **D:** Typeface development
 
 **N:** **Aldo De Losa**  
