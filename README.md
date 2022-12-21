@@ -62,8 +62,8 @@ If you make modifications be sure to add your name (N), email (E), web-address (
 **D:** Typeface development
 
 **N:** **Oscar Guerrero**  
-**E:** omnibus.type@gmail.com 
-**W:** http://www.omnibus-type.com 
+**E:** omnibus.type@gmail.com   
+**W:** http://www.omnibus-type.com   
 **D:** Typeface development
 
 **N:** **Aldo De Losa**  
