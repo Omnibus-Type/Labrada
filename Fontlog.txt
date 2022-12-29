@@ -1,18 +1,18 @@
-FONTLOG for the Albura fonts
+FONTLOG for the Labrada fonts
 
-This file provides detailed information on the Albura Font Software.
-This information should be distributed along with the Albura fonts
+This file provides detailed information on the Labrada Font Software.
+This information should be distributed along with the Labrada fonts
 and any derivative works.
 
 Basic Font Information
 
-Albura is a typeface family designed by Mercedes Jáuregui that expresses the communicative richness of the conversations and discourses of the indigenous cultures of oral tradition, at the same time that it dialogues with the classic forms to function in immersive reading texts. This project began in the Master of Typeface Design, MT-UBA, at the Universidad of Buenos Aires, Argentina. 
+Labrada is a typeface family designed by Mercedes Jáuregui that expresses the communicative richness of the conversations and discourses of the indigenous cultures of oral tradition, at the same time that it dialogues with the classic forms to function in immersive reading texts. This project began in the Master of Typeface Design, MT-UBA, at the Universidad of Buenos Aires, Argentina. 
 
 To contribute to the project contact Omnibus-Type at omnibus.type@gmail.com
 
 **ChangeLog**
 
-**06 Dec 2022 (Mercedes Jáuregui) Albura Family v.1.000**
+**06 Dec 2022 (Mercedes Jáuregui) Labrada Family v.1.000**
 - Initial release under SIL Open Font License
 
 Acknowledgements
