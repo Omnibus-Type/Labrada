@@ -537,7 +537,7 @@ value = 1145;
 },
 {
 name = hheaDescender;
-value = -290;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -549,7 +549,7 @@ value = 1145;
 },
 {
 name = typoDescender;
-value = -290;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -561,7 +561,7 @@ value = 1145;
 },
 {
 name = winDescent;
-value = 290;
+value = 300;
 }
 );
 guides = (
@@ -711,7 +711,7 @@ value = 1145;
 },
 {
 name = hheaDescender;
-value = -290;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -723,7 +723,7 @@ value = 1145;
 },
 {
 name = typoDescender;
-value = -290;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -735,7 +735,7 @@ value = 1145;
 },
 {
 name = winDescent;
-value = 290;
+value = 300;
 }
 );
 guides = (
@@ -883,7 +883,7 @@ value = 1145;
 },
 {
 name = hheaDescender;
-value = -290;
+value = -300;
 },
 {
 name = hheaLineGap;
@@ -895,7 +895,7 @@ value = 1145;
 },
 {
 name = typoDescender;
-value = -290;
+value = -300;
 },
 {
 name = typoLineGap;
@@ -907,7 +907,7 @@ value = 1145;
 },
 {
 name = winDescent;
-value = 290;
+value = 300;
 }
 );
 guides = (
