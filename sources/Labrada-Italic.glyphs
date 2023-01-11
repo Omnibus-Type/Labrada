@@ -1,5 +1,5 @@
 {
-.appVersion = "3149";
+.appVersion = "3148";
 .formatVersion = 3;
 axes = (
 {
@@ -8552,6 +8552,53 @@ width = 355;
 metricLeft = H;
 metricRight = H;
 unicode = 73;
+},
+{
+color = 1;
+glyphname = IJ;
+lastChange = "2023-01-11 09:40:30 +0000";
+layers = (
+{
+layerId = "2F2E705F-35A9-412F-BB04-95DF071C0E1E";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (355,0);
+ref = J;
+}
+);
+width = 662;
+},
+{
+layerId = UUID0;
+shapes = (
+{
+ref = I;
+},
+{
+pos = (381,0);
+ref = J;
+}
+);
+width = 733;
+},
+{
+layerId = "B4F86D1D-EB2F-477C-956E-3DDEB412089F";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (407,0);
+ref = J;
+}
+);
+width = 773;
+}
+);
+unicode = 306;
 },
 {
 color = 1;
@@ -18322,6 +18369,41 @@ width = 489;
 }
 );
 unicode = 536;
+},
+{
+color = 1;
+glyphname = Germandbls;
+lastChange = "2023-01-11 09:40:30 +0000";
+layers = (
+{
+layerId = "2F2E705F-35A9-412F-BB04-95DF071C0E1E";
+shapes = (
+{
+ref = .notdef;
+}
+);
+width = 313;
+},
+{
+layerId = UUID0;
+shapes = (
+{
+ref = .notdef;
+}
+);
+width = 313;
+},
+{
+layerId = "B4F86D1D-EB2F-477C-956E-3DDEB412089F";
+shapes = (
+{
+ref = .notdef;
+}
+);
+width = 313;
+}
+);
+unicode = 7838;
 },
 {
 color = 4;
@@ -94081,15 +94163,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -94098,25 +94171,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Thin;
 name = "Thin Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaThinItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Thin-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Thin Italic";
-}
-);
-}
-);
 weightClass = 100;
 },
 {
@@ -94145,25 +94199,6 @@ UUID0 = 0.18868;
 isItalic = 1;
 linkStyle = ExtraLight;
 name = "ExtraLight Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaExtraLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-ExtraLight-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada ExtraLight Italic";
-}
-);
-}
-);
 weightClass = 200;
 },
 {
@@ -94192,25 +94227,6 @@ UUID0 = 0.50943;
 isItalic = 1;
 linkStyle = Lght;
 name = "Light Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaLightItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Light-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Light Italic";
-}
-);
-}
-);
 weightClass = 300;
 },
 {
@@ -94221,15 +94237,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -94238,25 +94245,6 @@ UUID0 = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = Italic;
-properties = (
-{
-key = postscriptFullName;
-value = LabradaItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Italic";
-}
-);
-}
-);
 },
 {
 axesValues = (
@@ -94284,25 +94272,6 @@ UUID0 = 0.875;
 isItalic = 1;
 linkStyle = Medium;
 name = "Medium Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaMediumItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Medium-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Medium Italic";
-}
-);
-}
-);
 weightClass = 500;
 },
 {
@@ -94331,25 +94300,6 @@ UUID0 = 0.71667;
 isItalic = 1;
 linkStyle = SemiBold;
 name = "SemiBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaSemiBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-SemiBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada SemiBold Italic";
-}
-);
-}
-);
 weightClass = 600;
 },
 {
@@ -94379,25 +94329,6 @@ isBold = 1;
 isItalic = 1;
 linkStyle = Regular;
 name = "Bold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Bold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Bold Italic";
-}
-);
-}
-);
 weightClass = 700;
 },
 {
@@ -94426,25 +94357,6 @@ UUID0 = 0.28333;
 isItalic = 1;
 linkStyle = ExtraBold;
 name = "ExtraBold Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaExtraBoldItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-ExtraBold-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada ExtraBold Italic";
-}
-);
-}
-);
 weightClass = 800;
 },
 {
@@ -94455,15 +94367,6 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--default-script=latn --fallback-script=latp --windows-compatibility --stem-width-mode=sss";
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 instanceInterpolations = {
@@ -94472,25 +94375,6 @@ instanceInterpolations = {
 isItalic = 1;
 linkStyle = Black;
 name = "Black Italic";
-properties = (
-{
-key = postscriptFullName;
-value = LabradaBlackItalic;
-},
-{
-key = postscriptFontName;
-value = "Labrada-Black-Italic";
-},
-{
-key = styleMapFamilyNames;
-values = (
-{
-language = dflt;
-value = "Labrada Black Italic";
-}
-);
-}
-);
 weightClass = 900;
 }
 );
@@ -95051,7 +94935,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2019 The Labrada Project Authors (https://github.com/Omnibus-Type/Labrada)";
+value = "Copyright 2022 The Labrada Project Authors (https://github.com/Omnibus-Type/Labrada)";
 }
 );
 },
